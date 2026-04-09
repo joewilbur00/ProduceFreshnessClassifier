@@ -1,0 +1,7 @@
+tensorflow>=2.13
+huggingface_hub>=0.23
+streamlit>=1.30
+pillow>=10.0
+pandas>=2.0
+numpy>=1.24
+pytest>=8.0
