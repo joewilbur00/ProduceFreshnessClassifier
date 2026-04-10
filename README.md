@@ -16,8 +16,6 @@ The code downloads this file automatically at runtime:
 - 1 = Rotten
 
 ## Setup
-
-```bash
 pip install -r requirements.txt
 
 ### run single image inference
