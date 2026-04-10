@@ -24,6 +24,7 @@ The model is stored externally and downloaded at runtime from Hugging Face Hub, 
 
 ## Repository Structure
 
+```text
 ProduceFreshnessClassifier/
 ├── src/                     # Core inference package
 │   └── freshness_inference/
@@ -34,6 +35,7 @@ ProduceFreshnessClassifier/
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
+```
 
 ---
 
